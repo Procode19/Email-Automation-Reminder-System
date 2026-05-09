@@ -1,0 +1,4 @@
+email,subject,scheduled_time
+john@example.com,Meeting Reminder,09:00
+jane@example.com,Payment Due,10:00
+alice@example.com,Class Reminder,14:00
